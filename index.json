@@ -3178,6 +3178,48 @@
       "updated": "2026-02-12"
     },
     {
+      "name": "postal2_pl",
+      "display_name": "Postal 2 (Polish)",
+      "version": "1.0.0",
+      "description": "Sounds from Postal 2 (Polish), mostly Dude.",
+      "author": {
+        "name": "deoomen",
+        "github": "deoomen"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "session.end",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "pl",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 25,
+      "total_size_bytes": 3977010,
+      "source_repo": "deoomen/openpeon-postal2_pl",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "04de464f92ab48d46feaceff42ee046ad243b05a720b40ff0f1b19d6e7876db3",
+      "tags": [
+        "gaming",
+        "hardcore",
+        "mature",
+        "funny",
+        "postal"
+      ],
+      "preview_sounds": [
+        "sounds/Dude_RegretNothing2.wav",
+        "sounds/dude_sure.wav"
+      ],
+      "added": "2026-02-28",
+      "updated": "2026-02-28"
+    },
+    {
       "name": "professor-layton",
       "display_name": "Professor Layton",
       "version": "1.0.0",
