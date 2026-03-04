@@ -6645,7 +6645,7 @@
       "author": {
         "name": "Blizzard Entertainment"
       },
-      "trust_tier": "official",
+      "trust_tier": "community",
       "categories": [
         "input.required",
         "resource.limit",
@@ -6719,7 +6719,7 @@
       "author": {
         "name": "Blizzard Entertainment"
       },
-      "trust_tier": "official",
+      "trust_tier": "community",
       "categories": [
         "input.required",
         "resource.limit",
@@ -6754,7 +6754,7 @@
       "author": {
         "name": "Blizzard Entertainment"
       },
-      "trust_tier": "official",
+      "trust_tier": "community",
       "categories": [
         "input.required",
         "resource.limit",
@@ -6828,7 +6828,7 @@
       "author": {
         "name": "Blizzard Entertainment"
       },
-      "trust_tier": "official",
+      "trust_tier": "community",
       "categories": [
         "input.required",
         "resource.limit",
