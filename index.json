@@ -2289,8 +2289,8 @@
     },
     {
       "name": "high_elf_builder_ru",
-      "display_name": "Строитель Высших Эльфов",
-      "version": "1.0.0",
+      "display_name": "Строитель Высших Эльфов (Russian)",
+      "version": "1.1.0",
       "description": "High Elf Builder voice lines from Warcraft III (Russian)",
       "author": {
         "name": "Ivan Efremov",
@@ -2311,9 +2311,9 @@
       "sound_count": 22,
       "total_size_bytes": 796675,
       "source_repo": "I194/openpeon-high-elf-builder-ru",
-      "source_ref": "v1.0.0",
+      "source_ref": "v1.1.0",
       "source_path": ".",
-      "manifest_sha256": "8c4ab7f7ff5b358efc1a8ad4f47273a6a1183ced14c6a983f37d2862f6a1b787",
+      "manifest_sha256": "cede2adf0e2a73e98ca86c5ce730b031f2eedb5b5c6858b05b8b3b3fdaf68576",
       "tags": [
         "gaming",
         "warcraft",
